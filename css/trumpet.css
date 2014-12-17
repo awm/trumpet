@@ -1,0 +1,22 @@
+
+.flaticon-clubs, .flaticon-spades1 {
+	color: black;
+}
+
+.flaticon-diamond8, .flaticon-heart53 {
+	color: red;
+}
+
+.flaticon-trumpet {
+	color: blue;
+}
+
+.credits {
+	font-size: xx-small;
+    color: gray;
+    text-align: center;
+}
+
+button.checkbox {
+    text-align: left;
+}
